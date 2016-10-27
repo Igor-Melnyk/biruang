@@ -197,6 +197,7 @@ a:hover {
     font: 14px Roboto, sans-serif;
     width: 100%;
     box-sizing: border-box;
+    margin-top: 12px;
 }
 .slider ul li {
     position: relative;
@@ -542,6 +543,9 @@ footer p {
     }
     .navbar-form {
         border-bottom: none;
+    }
+    .search-input {
+        margin-top: 0;
     }
     .popular .products .item .item-price a img {
         margin-right: 15px;
