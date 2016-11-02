@@ -138,6 +138,9 @@ a:hover {
     font-size: 22px;
     font-family: Roboto, serif;
 }
+.logo a{
+    color: #000;
+}
 .tel-basket {
     float: right;
     font-family: 'Roboto', sans-serif;
